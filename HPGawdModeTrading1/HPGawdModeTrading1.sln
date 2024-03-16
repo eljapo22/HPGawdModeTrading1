@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HPGawdModeTrading1", "HPGawdModeTrading1.vcxproj", "{62246E5A-996C-4EC0-A686-C53706D7F4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62246E5A-996C-4EC0-A686-C53706D7F4B0}.Debug|x64.ActiveCfg = Debug|x64
+		{62246E5A-996C-4EC0-A686-C53706D7F4B0}.Debug|x64.Build.0 = Debug|x64
+		{62246E5A-996C-4EC0-A686-C53706D7F4B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{62246E5A-996C-4EC0-A686-C53706D7F4B0}.Debug|x86.Build.0 = Debug|Win32
+		{62246E5A-996C-4EC0-A686-C53706D7F4B0}.Release|x64.ActiveCfg = Release|x64
+		{62246E5A-996C-4EC0-A686-C53706D7F4B0}.Release|x64.Build.0 = Release|x64
+		{62246E5A-996C-4EC0-A686-C53706D7F4B0}.Release|x86.ActiveCfg = Release|Win32
+		{62246E5A-996C-4EC0-A686-C53706D7F4B0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E0656A-F43C-4679-9142-B2851565317D}
+	EndGlobalSection
+EndGlobal
